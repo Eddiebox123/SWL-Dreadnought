@@ -1,22 +1,24 @@
 {
   "units": {
-    "Imperium of Man": {
+    "Republic": {
       "Commander": [
         {
-          "name": "Dreadnought",
-          "title": "Servent of the Imperium",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1829025783657320998/418E09A9991D720D8932C28976F7FC096D56BE8E/",
-          "size": "huge",
-          "type": "Ground Vehicle",
-          "points": 300,
-          "speed": 1,
+          "name": "Mace Windu",
+          "title": "Master Jedi",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1021698230625281429/3C9D0D124008761886003E77A61D804554209CDB/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 200,
+          "speed": 2,
           "upgrades": {
-            "Hardpoint": 1,
+            "Force": 3,
+            "Command": 1,
+            "Training": 1
           },
           "minis": [
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1829025783655743569/6203D5A5C7F0903B4F2A7D192F8BAD1550F17B02/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1829025783655746761/A4BAC52AA08EC9DB2FDDF15EDAF338A02C144DCF/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455187825660/20318CF5820801C8D087056BFFF3B448DD1D24C0/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455187825926/3024C576BF271F52A8E09E226B9CE33A850279B5/"
             }
           ],
           "commands": [
@@ -44,5 +46,4 @@
   "upgrades": {},
   "battlefield": {},
   "commands": {}
-  
 }

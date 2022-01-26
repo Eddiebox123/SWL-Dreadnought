@@ -1,6 +1,6 @@
 {
   "units": {
-    "Republic": {
+    "Imperium": {
       "Commander": [
         {
           "name": "Dreadnought",
@@ -46,7 +46,11 @@
             {
               "name": "Heavy Flamer",
               "image": "http://cloud-3.steamusercontent.com/ugc/1829026203560124218/A4D98173BDB038F20FB713EEB132866C4403017D/",
-              "points": 30
+              "points": 30,
+	      "restrictions": {
+          	"include": {
+          	"unit": ["Dreadnought"]
+          }
             }
           ]
 	},

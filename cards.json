@@ -50,9 +50,10 @@
 	      "restrictions": {
           	"include": {
           	"unit": ["Dreadnought"]
-          }
-            }
-          ]
+			}
+         	   }
+         	]
+	    }
 	},
   "battlefield": {},
   "commands": {}

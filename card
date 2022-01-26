@@ -1,0 +1,59 @@
+{
+  "units": {
+    "Imperium of Man": {
+      "Commander": [
+        {
+          "name": "Dreadnought",
+          "title": "Servent of the Imperium",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1829025783657320998/418E09A9991D720D8932C28976F7FC096D56BE8E/",
+          "size": "huge",
+          "type": "Ground Vehicle",
+          "points": 300,
+          "speed": 1,
+          "upgrades": {
+            "Hardpoint": 1,
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1829025783655743569/6203D5A5C7F0903B4F2A7D192F8BAD1550F17B02/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1829025783655746761/A4BAC52AA08EC9DB2FDDF15EDAF338A02C144DCF/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "This Party's Over",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1021698230625281940/390920829A0807A416D844133830F1BD4AA708BA/",
+              "pip": 1
+            },
+            {
+              "name": "High Jedi General",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1021698230625282871/344CE94B47257366F05F2456247B2039D9C1E353/",
+              "pip": 2
+            },
+            {
+              "name": "Shatterpoint",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1021698230625283544/AA3307D7F95EC6C36F4E4F45FC786E85821B5BD7/",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {},
+  "battlefield": {},
+  "commands": {}
+  "Hardpoint": [
+      {
+        "name": "Auto Loader",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556638973875/12A8A6DAC58F8AD954452CFC4B0DC38ED932407B/",
+        "points": 5,
+        "restrictions": {
+          "include": {
+            "unit": ["Dreadnought"]
+          }
+        }
+      },
+  
+}

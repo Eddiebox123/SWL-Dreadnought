@@ -35,16 +35,17 @@
               "image": "http://cloud-3.steamusercontent.com/ugc/1021698230625283544/AA3307D7F95EC6C36F4E4F45FC786E85821B5BD7/",
               "pip": 3
             }
-          ],
-          "Hardpoint": [
+          ]
+        }
+      ],
+	  "Hardpoint": [
             {
               "name": "Heavy Flamer",
               "image": "http://cloud-3.steamusercontent.com/ugc/1829026203559382955/5C4E0CF4ABF77AFDF0E50781B71D791FDE0EBD3F/",
               "points": 30
             }
           ]
-        }
-      ]
+	  
     }
   },
 

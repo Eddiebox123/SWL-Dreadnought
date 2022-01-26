@@ -37,18 +37,19 @@
             }
           ]
         }
-      ],
+      ]
     }
   },
-  "Hardpoint": { [
+
+  "upgrades": {
+	"Hardpoint": [
             {
               "name": "Heavy Flamer",
               "image": "http://cloud-3.steamusercontent.com/ugc/1829026203559382955/5C4E0CF4ABF77AFDF0E50781B71D791FDE0EBD3F/",
               "points": 30
             }
           ]
-	  },
-  "upgrades": {},
+	},
   "battlefield": {},
   "commands": {}
 }

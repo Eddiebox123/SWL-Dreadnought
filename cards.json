@@ -44,4 +44,16 @@
   "upgrades": {},
   "battlefield": {},
   "commands": {}
+  "Hardpoint": [
+      {
+        "name": "Heavy Flamer",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1638738640747616297/2753260BCF4BD591144C4D74769F5E982D4E9D10/",
+        "points": 20,
+        "restrictions": {
+          "include": {
+            "unit": ["Dreadnought"]
+          }
+        }
+      }
+    ],
 }

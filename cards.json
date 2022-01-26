@@ -5,10 +5,10 @@
         {
           "name": "Dreadnought",
           "title": "Servant of the Imperium",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1829025783657320998/418E09A9991D720D8932C28976F7FC096D56BE8E/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1829026203560168090/96C3429278803D00C2D93C128EE0204E2375C878/",
           "size": "huge",
           "type": "Ground Vehicle",
-          "points": 300,
+          "points": 420,
           "speed": 1,
           "upgrades": {
             "Hardpoint": 1
@@ -21,18 +21,18 @@
           ],
           "commands": [
             {
-              "name": "This Party's Over",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1021698230625281940/390920829A0807A416D844133830F1BD4AA708BA/",
+              "name": "Even In Death I Still Serve",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1829026203560516062/645636BD7F4ABE98F34ED43BC67B37C31D7E69BF/",
               "pip": 1
             },
             {
-              "name": "High Jedi General",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1021698230625282871/344CE94B47257366F05F2456247B2039D9C1E353/",
+              "name": "Duty Eternal",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1829026203560514740/6F80322D4F0595EE7D34F47FAC374B27540A974B/",
               "pip": 2
             },
             {
-              "name": "Shatterpoint",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1021698230625283544/AA3307D7F95EC6C36F4E4F45FC786E85821B5BD7/",
+              "name": "Wisdom of the Ancients",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1829026203560513049/4E0FCDA38C0ED48DBE33928A450043ECDCD2904C/",
               "pip": 3
             }
           ]

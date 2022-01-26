@@ -44,16 +44,5 @@
   "upgrades": {},
   "battlefield": {},
   "commands": {}
-  "Hardpoint": [
-      {
-        "name": "Auto Loader",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1638738556638973875/12A8A6DAC58F8AD954452CFC4B0DC38ED932407B/",
-        "points": 5,
-        "restrictions": {
-          "include": {
-            "unit": ["Dreadnought"]
-          }
-        }
-      },
   
 }

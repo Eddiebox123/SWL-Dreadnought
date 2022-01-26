@@ -36,6 +36,18 @@
               "pip": 3
             }
           ]
+          "Hardpoint": [
+            {
+              "name": "Heavy Flamer",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1638738556638973875/12A8A6DAC58F8AD954452CFC4B0DC38ED932407B/",
+              "points": 10,
+              "restrictions": {
+              "include": {
+              "unit": ["Dreadnought"]
+                }
+              }
+            }
+          ]
         }
       ]
     }

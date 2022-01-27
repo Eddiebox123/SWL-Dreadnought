@@ -5,10 +5,10 @@
         {
           "name": "Dreadnought",
           "title": "Servant of the Imperium",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1829026203560168090/96C3429278803D00C2D93C128EE0204E2375C878/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1829026203562924382/B5146DFAF91AC33DA20E6D1B99F2974AD7F7FEAC/",
           "size": "huge",
           "type": "Ground Vehicle",
-          "points": 420,
+          "points": 390,
           "speed": 1,
           "upgrades": {
             "Hardpoint": 1
@@ -45,8 +45,8 @@
 	"Hardpoint": [
             {
               "name": "Heavy Flamer",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1829026203560124218/A4D98173BDB038F20FB713EEB132866C4403017D/",
-              "points": 30,
+              "image": "http://cloud-3.steamusercontent.com/ugc/1829026203562949302/ABD3C60B3162D0F1F471E3B5B8F24447230FEDB8/",
+              "points": 60,
 	      "restrictions": {
           	"include": {
           	"unit": ["Dreadnought"]

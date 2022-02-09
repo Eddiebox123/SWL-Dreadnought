@@ -8,10 +8,11 @@
           "image": "http://cloud-3.steamusercontent.com/ugc/1829026203562924382/B5146DFAF91AC33DA20E6D1B99F2974AD7F7FEAC/",
           "size": "huge",
           "type": "Ground Vehicle",
-          "points": 390,
+          "points": 300,
           "speed": 1,
           "upgrades": {
-            "Hardpoint": 1
+            "Hardpoint": 2,
+	    "Gear": 1
           },
           "minis": [
             {
@@ -43,10 +44,30 @@
 
   "upgrades": {
 	"Hardpoint": [
-            {
+           	{
               "name": "Heavy Flamer",
               "image": "http://cloud-3.steamusercontent.com/ugc/1829026203562949302/ABD3C60B3162D0F1F471E3B5B8F24447230FEDB8/",
               "points": 60,
+	      "restrictions": {
+          	"include": {
+          	"unit": ["Dreadnought"]
+			}
+         	   }
+         	},
+		{
+              "name": "Assault Cannon",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1829026203562949302/ABD3C60B3162D0F1F471E3B5B8F24447230FEDB8/",
+              "points": 90,
+	      "restrictions": {
+          	"include": {
+          	"unit": ["Dreadnought"]
+			}
+         	   }
+         	},
+		{
+              "name": "Twin Heavy Flamer",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1815516665789570713/43B4379BCBB096571B95BE3670882045005A8F9D/",
+              "points": 100,
 	      "restrictions": {
           	"include": {
           	"unit": ["Dreadnought"]

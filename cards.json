@@ -12,7 +12,7 @@
           "speed": 1,
           "upgrades": {
             "Hardpoint": 2,
-	    "Gear": 1
+	    "Gear": 2
           },
           "minis": [
             {
@@ -58,6 +58,16 @@
               "name": "Assault Cannon",
               "image": "http://cloud-3.steamusercontent.com/ugc/1829026203562949302/ABD3C60B3162D0F1F471E3B5B8F24447230FEDB8/",
               "points": 90,
+	      "restrictions": {
+          	"include": {
+          	"unit": ["Dreadnought"]
+			}
+         	   }
+         	},
+		{
+              "name": "Seismic Hammer",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1829026203562949302/ABD3C60B3162D0F1F471E3B5B8F24447230FEDB8/",
+              "points": 100,
 	      "restrictions": {
           	"include": {
           	"unit": ["Dreadnought"]

@@ -84,6 +84,38 @@
 			}
          	   }
          	}
+	    ],
+	  "Gear": [
+		  {
+              "name": "Automatic Shielding",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1815516665789570713/43B4379BCBB096571B95BE3670882045005A8F9D/",
+              "points": 60,
+	      "restrictions": {
+          	"include": {
+          	"unit": ["Dreadnought"]
+			}
+         	   }
+         	},
+		{
+              "name": "Assault Launchers",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1815516665789570713/43B4379BCBB096571B95BE3670882045005A8F9D/",
+              "points": 70,
+	      "restrictions": {
+          	"include": {
+          	"unit": ["Dreadnought"]
+			}
+         	   }
+         	},
+		{
+              "name": "Faraday Field",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1815516665789570713/43B4379BCBB096571B95BE3670882045005A8F9D/",
+              "points": 60,
+	      "restrictions": {
+          	"include": {
+          	"unit": ["Dreadnought"]
+			}
+         	   }
+         	}
 	    ]
 	},
   "battlefield": {},

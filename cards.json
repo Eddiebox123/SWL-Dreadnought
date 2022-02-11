@@ -5,7 +5,7 @@
         {
           "name": "Dreadnought",
           "title": "Servant of the Imperium",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1829026203562924382/B5146DFAF91AC33DA20E6D1B99F2974AD7F7FEAC/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1815516766469416983/8FB232C4DEBEAB2D9FE627BC2B985CAD9FC80BD2/",
           "size": "huge",
           "type": "Ground Vehicle",
           "points": 300,
@@ -56,7 +56,7 @@
          	},
 		{
               "name": "Assault Cannon",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1829026203562949302/ABD3C60B3162D0F1F471E3B5B8F24447230FEDB8/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1815516766469434153/402AC82F8A319EE6D7A58ACEB75CD42728D40CF1/",
               "points": 90,
 	      "restrictions": {
           	"include": {
@@ -66,7 +66,7 @@
          	},
 		{
               "name": "Seismic Hammer",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1829026203562949302/ABD3C60B3162D0F1F471E3B5B8F24447230FEDB8/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1815516766469432281/6536BC249E215EF2C93111AD50F88FC39FF7B211/",
               "points": 100,
 	      "restrictions": {
           	"include": {
@@ -88,7 +88,7 @@
 	  "Gear": [
 		  {
               "name": "Automatic Shielding",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1815516665789570713/43B4379BCBB096571B95BE3670882045005A8F9D/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1815516766469430048/B643CE899F38B07283C91E533FCBFF7CB11F9599/",
               "points": 60,
 	      "restrictions": {
           	"include": {
@@ -98,7 +98,7 @@
          	},
 		{
               "name": "Assault Launchers",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1815516665789570713/43B4379BCBB096571B95BE3670882045005A8F9D/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1815516766469428653/6A8BBAA6B5C2667EB60E8717271191CA7F390364/",
               "points": 70,
 	      "restrictions": {
           	"include": {
@@ -108,7 +108,7 @@
          	},
 		{
               "name": "Faraday Field",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1815516665789570713/43B4379BCBB096571B95BE3670882045005A8F9D/",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1815516766469426477/BDFEB4EE433627B930729A384184F5AB2B505EF7/",
               "points": 60,
 	      "restrictions": {
           	"include": {
